@@ -1,2 +1,2 @@
 # tulisna
-Bot nulis
+Pillow,Flask
